@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d86471a2-bb6f-478b-8849-3b5a03b710c5" name="李林超">
+        <fileTransfer rootFolder="/home/lifeiyang/SAMed" accessType="SFTP" host="172.31.211.61" port="22" sshConfigId="e89eec64-8cd3-406d-a6ff-be61ff48be49" sshConfig="lifeiyang@172.31.211.61:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

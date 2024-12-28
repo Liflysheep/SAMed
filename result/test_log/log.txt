@@ -1,0 +1,6 @@
+[22:41:52.071] Namespace(ckpt='checkpoints/sam_vit_b_01ec64.pth', config=None, dataset='Synapse', deterministic=1, img_size=512, input_size=224, is_savenii=True, list_dir='./lists/lists_Synapse/', lora_ckpt='checkpoints/epoch_159.pth', module='sam_lora_image_encoder', num_classes=8, output_dir='./result', rank=4, seed=1234, vit_name='vit_b', volume_path='testset/test_vol_h5/')
+[22:41:52.075] 12 test iterations per epoch
+[22:44:24.306] idx 0 case case0008 mean_dice 0.669957 mean_hd95 12.885176
+[22:45:53.418] idx 1 case case0022 mean_dice 0.903698 mean_hd95 8.620059
+[22:47:37.780] idx 2 case case0038 mean_dice 0.829463 mean_hd95 5.516328
+[22:51:05.539] idx 3 case case0036 mean_dice 0.867280 mean_hd95 7.137733
